@@ -1,4 +1,4 @@
-package braveup.zk.code;
+package braveup.zk.example.basicexample;
 
 import org.springframework.util.CollectionUtils;
 
